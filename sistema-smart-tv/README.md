@@ -1,1 +1,2 @@
-Repositório com atividades de Java Básico DIO e métodos.
+Repositório para exemplos do curso Java Básico pela DIO.
+
